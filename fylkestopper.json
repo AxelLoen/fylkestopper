@@ -1,0 +1,118 @@
+{
+  "fjelltopper": [
+    {
+      "navn": "Fjellsjøkampen",
+      "fylke": "Akershus",
+      "høyde": 812,
+      "pf": 108
+    },
+    {
+      "navn": "Folarskardnuten",
+      "fylke": "Buskerud",
+      "høyde": 1933,
+      "pf": 955
+    },
+    {
+      "navn": "Galdhøpiggen",
+      "fylke": "Oppland",
+      "høyde": 2469,
+      "pf": 2372
+    },
+    {
+      "navn": "Gaustatoppen",
+      "fylke": "Telemark",
+      "høyde": 1883,
+      "pf": 958
+    },
+    {
+      "navn": "Hardangerjøkulen",
+      "fylke": "Hordaland",
+      "høyde": 1861,
+      "pf": 549
+    },
+    {
+      "navn": "Jetnamsklumpen",
+      "fylke": "Nord-Trøndelag",
+      "høyde": 1512,
+      "pf": 675
+    },
+    {
+      "navn": "Jiehkkevárri",
+      "fylke": "Troms",
+      "høyde": 1834,
+      "pf": 1737
+    },
+    {
+      "navn": "Kjerkeberget",
+      "fylke": "Oslo",
+      "høyde": 630,
+      "pf": 37
+    },
+    {
+      "navn": "Oksskolten",
+      "fylke": "Nordland",
+      "høyde": 1915,
+      "pf": 1382
+    },
+    {
+      "navn": "Pyttegga",
+      "fylke": "Møre og Romsdal",
+      "høyde": 1999,
+      "pf": 566
+    },
+    {
+      "navn": "Rondslottet",
+      "fylke": "Hedmark",
+      "høyde": 2178,
+      "pf": 1231
+    },
+    {
+      "navn": "Slavasshøgda",
+      "fylke": "Østfold",
+      "høyde": 336,
+      "pf": 123
+    },
+    {
+      "navn": "Store Skagastølstinden",
+      "fylke": "Sogn og Fjordane",
+      "høyde": 2405,
+      "pf": 1013
+    },
+    {
+      "navn": "Storskrymten",
+      "fylke": "Sør-Trøndelag",
+      "høyde": 1985,
+      "pf": 606
+    },
+    {
+      "navn": "Sæbyggjenuten",
+      "fylke": "Aust-Agder",
+      "høyde": 1507,
+      "pf": 328
+    },
+    {
+      "navn": "Urdalsknuten",
+      "fylke": "Vest-Agder",
+      "høyde": 1433,
+      "pf": 504
+    },
+    {
+      "navn": "Vassdalseggi",
+      "fylke": "Rogaland",
+      "høyde": 1658,
+      "pf": 506
+    },
+    {
+      "navn": "Vestfjellet",
+      "fylke": "Vestfold",
+      "høyde": 634,
+      "pf": 473
+    },
+    {
+      "navn": "Øksfjordjøkelen",
+      "fylke": "Finnmark",
+      "høyde": 1191,
+      "pf": 1119
+    }
+  ]
+}
